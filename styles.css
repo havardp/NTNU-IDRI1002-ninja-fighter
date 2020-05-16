@@ -1,0 +1,17 @@
+@font-face {
+  font-family: freedom;
+  src: url(freedom/freedom.ttf);
+}
+
+canvas {
+  background: url("img/Ninja.jpg");
+  display: inline-block;
+  background-size: cover;
+  margin: 0;
+  margin-top: 100px;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
